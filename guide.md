@@ -182,6 +182,16 @@ PrivateTmp=true
 [Install]
 WantedBy=multi-user.target
 ```
+```
+Here are the list of services we have on the server
+ c2c-iat-customer-backend.service
+c2c-iat-customer.service
+c2c-iat-staff-backend.service
+c2c-iat.service
+c2c-sit-customer-backend.service
+c2c-sit-staff-backend.service
+```
+
 
 ### Service Management Commands
 
